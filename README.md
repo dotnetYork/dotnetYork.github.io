@@ -9,6 +9,6 @@ dotnetYork is a new .NET user group looking to focus on .NET and anything relate
 Fancy helping us create a better website? Checkout this [issue](https://github.com/dotnetYork/dotnetYork.github.io/issues/1)
 
 ## links
-- https://twitter.com/dotnetyork
-- https://www.facebook.com/dotnetyork/
-- https://www.meetup.com/dotnetyork
+- [https://twitter.com/dotnetyork](https://twitter.com/dotnetyork)
+- [https://www.facebook.com/dotnetyork/](https://www.facebook.com/dotnetyork/)
+- [https://www.meetup.com/dotnetyork](https://www.meetup.com/dotnetyork)
