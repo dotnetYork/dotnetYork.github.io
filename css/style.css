@@ -965,6 +965,58 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 2px;
 }
 
+/* Connections Section
+--------------------------------*/
+#connections {
+  background: #fff;
+  padding: 30px 0 0 0;
+}
+
+#connections .connection {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#connections .connection .logo {
+  overflow: hidden;
+  text-align: center;
+}
+
+#connections .connection .logo img {
+  max-width: 100%;
+}
+
+#connections .connection .details {
+  background: #50d8af;
+  color: #fff;
+  padding: 15px;
+  border-radius: 0 0 3px 3px;
+}
+
+#connections .connection h4 {
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+#connections .connection span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+}
+
+#connections .connection .social {
+  margin-top: 5px;
+}
+
+#connections .connection .social a {
+  color: #fff;
+}
+
+#connections .connection .social i {
+  font-size: 20px;
+  margin: 0 2px;
+}
+
 /* Contact Section
 --------------------------------*/
 #contact {
